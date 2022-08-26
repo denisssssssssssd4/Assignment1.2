@@ -1,2 +1,4 @@
 Denis Soulima
 
+1. Use the Git Workflow to push the empty directory to Github, and check your repository in a browser. What happend?
+	Github created a new directory called my name. The directory is present, only one.
